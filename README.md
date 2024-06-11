@@ -24,9 +24,9 @@
 ### <a href="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif"><img align="center" src="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif" width="32" alt="SpeechBubble-gif"/></a> Socials & Contacts:
 
 <div align="left">
-  <a href="https://www.instagram.com/riosn_444/"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Instagram-icon.png" height="32" alt="Instagram-icon" title="Instagram"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://web.facebook.com/shikimo.shikimo.7/"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Facebook-icon.png" height="32" alt="Facebook-icon" title="Facebook"></a>&nbsp;&nbsp;&nbsp;
-  <a href="riobumpermemek@gmail.com"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Email-icon.png" height="32" alt="Email-icon" title="Email"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://web.telegram.org/k/#@Alicesn444"><img src="https://cdn0.iconfinder.com/data/icons/eon-social-media-contact-info-2/32/telegram_social_media_network_chat-512.png" height="32" alt="Instagram-icon" title="telegran"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://web.facebook.com/shikimo.shikimo.7/"><img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/06-facebook-512.png" height="32" alt="Facebook-icon" title="Facebook"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/rioinginjp"><img src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Twitter_glyph_svg-512.png" height="32" alt="Email-icon" title="x"></a>&nbsp;&nbsp;&nbsp;
  
   <sub>**"Use `ctrl + click` to open it in a new window!"**</sub>
 </div>
